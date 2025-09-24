@@ -1,0 +1,10 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--cor-fonte-principal);
+}
+
+/* Este estilo é novo, é o que vai sublinhar o item do menu: */
+.linkDestacado {
+    text-decoration: underline;
+}
