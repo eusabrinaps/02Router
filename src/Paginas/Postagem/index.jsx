@@ -1,7 +1,7 @@
 import './Post.css';
 import { useParams } from "react-router-dom";
 import posts from "@/json/posts.json";
-import PostModelo from "@/componentes/PostModelo";
+import PostModelo from "@/Componentes/PostModelo";
 import ReactMarkdown from "react-markdown";
 export default function Postagem() {
     const parametros = useParams();
