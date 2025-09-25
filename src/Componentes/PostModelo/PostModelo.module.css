@@ -1,0 +1,55 @@
+.postModeloContainer {
+    color: var(--cor-fonte-post);
+    position: relative;
+}
+
+.fotoCapa,
+.titulo {
+    height: 204px;
+}
+
+.fotoCapa {
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.3;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.titulo {
+    font-family: var(--fonte-secundaria);
+    padding: 0 7.5rem;
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+}
+
+.postModeloContainer {
+    color: var(--cor-fonte-post);
+    position: relative;
+}
+
+.fotoCapa,
+.titulo {
+    height: 204px;
+}
+
+.fotoCapa {
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.3;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.titulo {
+    font-family: var(--fonte-secundaria);
+    padding: 0 7.5rem;
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+}
